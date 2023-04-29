@@ -1,0 +1,6 @@
+Cashy app - flutter BWA
+-Mentor Angga Rizky (kelas :Flutter mobile app)
+
+Belajar membuat suatu aplikasi sederhana, landing page sederhana
+menampilkan foto profil (mini portofolio)
+dengan menggunakan gambar, google font, style colors
